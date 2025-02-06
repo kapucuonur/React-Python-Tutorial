@@ -4,7 +4,10 @@ Build a Friend Store with Python(Flask) and JavaScript(React)
 
 ![Demo App](https://i.ibb.co/S6Xgb6c/Group-98.png)
 
-## 🚀 Features
+## Deployment
+
+deployment github: https://github.com/kapucuonur/React-Python-Tutorial
+render : https://react-python-tutorial-ezkn.onrender.com/
 
 ### Table of Contents
 
